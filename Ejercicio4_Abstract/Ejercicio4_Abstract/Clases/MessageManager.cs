@@ -24,6 +24,8 @@ namespace Ejercicio4_Abstract.Clases
             m2.PrintMessage("OLA");
             m2.InvertMessage("OLA");
 
+            m2.InvertMessage("AloHa");
+
            
         }
     }
